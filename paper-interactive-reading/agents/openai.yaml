@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Interactive Reading"
+  short_description: "Read papers via Q&A, notes, quizzes, robot perspective"
+  default_prompt: "Help me read this paper"
